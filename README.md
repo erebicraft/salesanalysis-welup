@@ -32,3 +32,7 @@ The EDA involved exploring the sales data to answer key questions, such as
 - how is the overall sales trend of the Company?
 - what are the top three products?
 - who are the most productive sales representatives in 2015, 2016 and 2017 respectively?
+
+## Data Analysis ##
+Here are some of the analysis used 
+![Pivot Tables Used for the Analysis](https://github.com/erebicraft/salesanalysis-welup/blob/main/Pivot%20Table%20Analysis%20Tables%20.png)
