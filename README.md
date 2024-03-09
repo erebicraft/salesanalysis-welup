@@ -46,7 +46,13 @@ QtrNo = INT(([Month Number]+2)/3)
 ```excel
 Qtr = "Qtr"&[QtrNo]
 ```
-
+## Results / Findings ##
+1. ### The overall sales trend ###
+   It was observed that the company constantly experienced upward trend in revenue from the second quarter to the forth quarter but a sharp downward trend after the forth quarter.
+   
+ ![Sales Trend](https://github.com/erebicraft/salesanalysis-welup/blob/main/Sales%20Trend.png)  
+   
+   
 
 
 
