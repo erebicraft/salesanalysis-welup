@@ -27,3 +27,8 @@ To explore more, the following step were also carried out:
  
 ![Data Modeling](https://github.com/erebicraft/salesanalysis-welup/blob/main/Power%20Pivot%20Modelling%20.png)
 
+## Exploratory Data Analysis ##
+The EDA involved exploring the sales data to answer key questions, such as
+- how is the overall sales trend of the Company?
+- what are the top three products?
+- who are the most productive sales representatives in 2015, 2016 and 2017 respectively?
