@@ -36,3 +36,17 @@ The EDA involved exploring the sales data to answer key questions, such as
 ## Data Analysis ##
 Here are some of the analysis used 
 ![Pivot Tables Used for the Analysis](https://github.com/erebicraft/salesanalysis-welup/blob/main/Pivot%20Table%20Analysis%20Tables%20.png)
+
+```excel
+TotRev2015:=CALCULATE([Sum of Revenue],Calendar1[Year]=2015)
+```
+```excel
+QtrNo = INT(([Month Number]+2)/3)
+```
+```excel
+Qtr = "Qtr"&[QtrNo]
+```
+
+
+
+
