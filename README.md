@@ -22,5 +22,5 @@ In my exploration of Power Pivot and Power Query, I extracted sales data from th
 To explore more, the following step were also carried out:
 -Tables for Products, Region, Sales Representatives were created.
 -Data modeling 
-![Data Modeling](https://github.com/erebicraft/salesanalysis-welup/commit/e7ee437afae6f3fc08c7fe326cb73d2b0ce7a48f)
+![Data Modeling](Power Pivot Modelling .png)
 
