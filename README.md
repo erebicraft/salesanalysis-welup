@@ -13,17 +13,17 @@ Microsoft Excel served as the primary tool for the entire process.
 ## Data Process ##
 Data cleaning procedures were executed to prepare the dataset for analysis, including:
 
--Identifying and removing duplicates: 79 duplicates were detected and eliminated.
--Correcting typos and errors: For instance, "Sunbell*" was rectified.
--Handling Outliers: No outliers were discovered
+- Identifying and removing duplicates: 79 duplicates were detected and eliminated.
+- Correcting typos and errors: For instance, "Sunbell*" was rectified.
+- Handling Outliers: No outliers were discovered
 among others
 
 ## Data Process ##
 In my exploration of Power Pivot and Power Query, I extracted sales data from the dataset based on various years and saved them into a folder named "Sales Folder". Next, I imported the Sales data folder through "Get Data" into the Power Query Editor, where the data was transformed and loaded into Power Pivot tables. 
 To explore more, the following step were also carried out:
-
-  -Tables for Products, Region, Sales Representatives were created.
-  -Data modeling 
+ 
+  - Tables for Products, Region, Sales Representatives were created.
+  - Data modeling 
  
 ![Data Modeling](https://github.com/erebicraft/salesanalysis-welup/blob/main/Power%20Pivot%20Modelling%20.png)
 
