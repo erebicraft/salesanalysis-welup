@@ -52,7 +52,14 @@ Qtr = "Qtr"&[QtrNo]
    
  ![Sales Trend](https://github.com/erebicraft/salesanalysis-welup/blob/main/Sales%20Trend.png)  
    
-   
+ 2. ### The Top three products ###
+ The top three products were Quad, Bellen and Doublers with over $193360, $167171 and $148463 respectively as revenue.
+ ![Top 3 Products by Revenue](https://github.com/erebicraft/salesanalysis-welup/blob/main/Top%203%20products%20by%20Revenue.png)
+
+ 3. ### The most productive sales representaive for 2015, 2016 and 2017 respectively ###
+In 2015, Julie was the most productive sales representative with over $5827 sales made. In 2016, Mike was the most productive sales representative with over $104108 sales made and in 2017, Julie made a sales of over $99145 making her the most productive sales representative for the year.
+
+![Most Productive SalesRep](https://github.com/erebicraft/salesanalysis-welup/blob/main/Top%203%20products%20by%20Revenue.png)
 
 
 
