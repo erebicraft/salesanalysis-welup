@@ -5,7 +5,7 @@ This sales dataset was utilized as part of an Excel assessment to evaluate profi
 ![Sales Analysis Dashboard](https://github.com/erebicraft/salesanalysis-welup/blob/main/Dashboard%202015%20to%202017.png)
 
 ## Data Preparation ##
-The dataset used for this project was an [xlsx file](https://docs.google.com/spreadsheets/d/1wLW1QbwluIELVR_ZxCRacCT1IP8Hsoia/edit#gid=350007657) obtained from [Welup Digital Academy](https://welupdigital.com/), comprising 9972 records and 7 fields.
+The dataset used for this project is an [xlsx file](https://docs.google.com/spreadsheets/d/1wLW1QbwluIELVR_ZxCRacCT1IP8Hsoia/edit#gid=350007657) obtained from [Welup Digital Academy](https://welupdigital.com/), comprising 9972 records and 7 fields.
 
 ## Tool Used ##
 Microsoft Excel served as the primary tool for the entire process.
