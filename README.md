@@ -63,5 +63,7 @@ In 2015, Julie was the most productive sales representative with over $5827 sale
 
 ## Recommendations ##
 Based on the analysis, the following recommendations are made:
-
+- ### Forecasting and Planning ### : The need to ulitize a forecasting models to ascertain future revenue trends and develop strategic plans to mitigate the impact of any potential downward trends and capitalise on upward trends.
+- ### Optimization of Cost ###: The need to review and optimaze the company's operational costs is crucial. This involves identifying areas where expenses can be reduced without sacrifiscing quality.
+- ### The Most Productive Sales Representatives (Juie and Mike) should awarded for their outstanding performance.
 
