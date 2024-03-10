@@ -61,5 +61,7 @@ In 2015, Julie was the most productive sales representative with over $5827 sale
 
 ![Most Productive SalesRep](https://github.com/erebicraft/salesanalysis-welup/blob/main/Most%20Productive%20Salesrep%20for%20each%20year.png)
 
+## Recommendations ##
+Based on the analysis, the following recommendations are made:
 
 
