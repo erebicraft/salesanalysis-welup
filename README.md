@@ -20,7 +20,7 @@ among others
 
 ## Data Process ##
 In my exploration of Power Pivot and Power Query, I extracted sales data from the dataset based on various years and saved them into a folder named "Sales Folder". Next, I imported the Sales data folder through "Get Data" into the Power Query Editor, where the data was transformed and loaded into Power Pivot tables. 
-To explore more, the following step were also carried out:
+To explore more, the following steps were also carried out:
  
   - Tables for Products, Region, Sales Representatives were created.
   - Data modeling 
