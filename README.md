@@ -28,36 +28,40 @@ To explore more, the following step were also carried out:
 ![Data Modeling](https://github.com/erebicraft/salesanalysis-welup/blob/main/Power%20Pivot%20Modelling%20.png)
 
 ## Exploratory Data Analysis ##
-The EDA involved exploring the sales data to answer key questions, such as
+This report presents an EDA of the sales data to uncover insights into the company's performance.  These insights aimed to answer key questions, such as
 - how is the overall sales trend of the Company?
 - what are the top three products?
 - who are the most productive sales representatives in 2015, 2016 and 2017 respectively?
 
-## Data Analysis ##
-Here are some of the analysis used 
+## Data Analysis Techniques ##
+Various data analysis techniques were employed to extract meaningful insights from the sales data. Notably, pivot tables and charts were utlized to facilitate the analysis process.
+
 ![Pivot Tables Used for the Analysis](https://github.com/erebicraft/salesanalysis-welup/blob/main/Pivot%20Table%20Analysis%20Tables%20.png)
 
+- Dax Calculation of total revenue for the year 2015
 ```excel
 TotRev2015:=CALCULATE([Sum of Revenue],Calendar1[Year]=2015)
 ```
+- Derivation of quarter information from the month numbers:
 ```excel
 QtrNo = INT(([Month Number]+2)/3)
 ```
+-Derivation of quarter information from the Quarter Numbers: 
 ```excel
 Qtr = "Qtr"&[QtrNo]
 ```
 ## Results / Findings ##
-1. ### The overall sales trend ###
-   It was observed that the company constantly experienced upward trend in revenue from the second quarter to the forth quarter but a sharp downward trend after the forth quarter.
+1. ### Overall sales trend ###
+ Analysis revealed a consistent upward trend in revenue from the second quarter to the fourth quarter, followed by a sharp decline thereafter.
    
  ![Sales Trend](https://github.com/erebicraft/salesanalysis-welup/blob/main/Sales%20Trend.png)  
    
- 2. ### The Top three products ###
- The top three products were Quad, Bellen and Doublers with over $193360, $167171 and $148463 respectively as revenue.
+ 2. ### Top three products ###
+ The top three revenue-generating products were Quad, Bellen and Doublers with over $193360, $167171 and $148463 respectively as revenue.
  ![Top 3 Products by Revenue](https://github.com/erebicraft/salesanalysis-welup/blob/main/Top%203%20products%20by%20Revenue.png)
 
- 3. ### The most productive sales representaive for 2015, 2016 and 2017 respectively ###
-In 2015, Julie was the most productive sales representative with over $5827 sales made. In 2016, Mike was the most productive sales representative with over $104108 sales made and in 2017, Julie made a sales of over $99145 making her the most productive sales representative for the year.
+ 3. ### Most Productive Sales Representaives ###
+In 2015, Julie emerged as the most productive sales representative, achieving sales of over $5,827. In 2016, Mike led with sales exceeding $104,108, while in 2017, Julie maintained her top position with sales surpassing $99,145.
 
 ![Most Productive SalesRep](https://github.com/erebicraft/salesanalysis-welup/blob/main/Most%20Productive%20Salesrep%20for%20each%20year.png)
 
